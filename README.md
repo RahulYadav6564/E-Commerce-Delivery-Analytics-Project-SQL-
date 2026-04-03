@@ -71,6 +71,5 @@ E-Commerce Delivery Analytics Project (SQL)
 -Provided insights to improve customer satisfaction and revenue performance
 
 Links
-Dataset: Kaggle (E-Commerce Analytics Dataset)
-GitHub Repository: 
+Dataset: Kaggle (https://lnkd.in/g4KnwsWJ)
 LinkedIn: www.linkedin.com/in/rahul-yadav-b4613927b
